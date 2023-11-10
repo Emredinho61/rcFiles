@@ -1,0 +1,22 @@
+[Behavior]
+OpenAfterStart=true
+
+[Dialogs]
+FirstRun=false
+
+[KFileDialog Settings]
+Recent Files[$e]=frako.jpeg,file:$HOME/Downloads/assets/frako.jpeg,file:$HOME/Downloads/assets/frako.png
+Recent URLs[$e]=file:$HOME/Downloads/assets/,file:$HOME/
+detailViewIconSize=16
+
+[Shortcuts]
+decrease-window-height=Ctrl+Num+-
+increase-window-height=Ctrl+Num++
+split-left-right=Ctrl+Shift+Z
+split-top-bottom=Ctrl+Shift+H
+view-full-screen=F11
+
+[Window]
+Height=57
+ToggleToFocus=true
+Width=100
